@@ -17,7 +17,7 @@ This project is one of the practical project built during my journey through the
 It showcases core JavaScript concepts such as functions, DOM manipulation, and dynamic rendering — all built without using any external libraries or frameworks.
 
 ## Try It Live
-[Click here to see live demo]<>
+[Click here to see live demo](https://satyamgwal-fullstack.github.io/Football-Team-Card/)
 
 ## Author
 **Satyam Gwal** 
